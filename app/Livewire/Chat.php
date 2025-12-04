@@ -9,7 +9,7 @@ use Livewire\Component;
 class Chat extends Component
 {
 
-    public $message;
+    public $message; 
 
     // public function store(Request $request){
     //     $request->validate([
