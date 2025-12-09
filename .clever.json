@@ -1,5 +1,5 @@
 {
     "deploy":{
-        "root":"site/public"
+        "root":"public"
     }
 }
